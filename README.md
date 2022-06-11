@@ -4,4 +4,4 @@
 ## Проекты
 
 * [Проект 0. Угадываем загаданное компьютером число.](https://github.com/ArthurIrkaev/SkillFactory/tree/main/project_0)
-* [Проект 1. Анализ вакансий из HeadHunter ](https://github.com/ArthurIrkaev/SkillFactory/tree/main/project_1)
+* [Проект 1. Анализ вакансий из HeadHunter ](https://github.com/ArthurIrkaev/SkillFactory/tree/master/project_1)
