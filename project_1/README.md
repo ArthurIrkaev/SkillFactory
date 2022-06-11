@@ -73,3 +73,6 @@
 - результаты работы размещены на GitHub
 
 :arrow_up:[К оглавлению.](https://github.com/ArthurIrkaev/SkillFactory/tree/main/project_0/README.md#Оглавление.)
+
+### Примечание.
+В связи с периодически возникающей ошибкой 'The notebook took too long to render' ознакомится с notebook можно используя сервис nbviewer.com по [ссылке](https://nbviewer.org/github/ArthurIrkaev/SkillFactory/blob/master/project_1/Project%201.ipynb)
